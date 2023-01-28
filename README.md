@@ -6,5 +6,7 @@ Git is a free software distributed under the GPL.
 This line was written on a new branch.
 Testing stash.
 
+Working in progress...
+
 Creating a new branch is quick & simple.
 Creating a new branch is quick and simple.
