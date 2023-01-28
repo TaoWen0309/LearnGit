@@ -1,1 +1,2 @@
-a repo for learning and testing git skills
+Git is a version control system.
+Git is free software.
