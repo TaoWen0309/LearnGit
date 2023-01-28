@@ -4,7 +4,7 @@ Git is a distributed version control system.
 Git is free software distributed under the GPL.
 
 This line was written on a new branch.
-Testing a new branch again.
+Testing stash.
 
 Creating a new branch is quick & simple.
 Creating a new branch is quick and simple.
